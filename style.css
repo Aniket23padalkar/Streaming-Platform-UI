@@ -63,15 +63,13 @@ nav {
 }
 
 .nav-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 5rem;
     width: 9.25rem;
-}
-
-.nav-logo img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    display: block;
+    font-size: 2rem;
+    font-weight: bold;
 }
 
 .nav-right select {
