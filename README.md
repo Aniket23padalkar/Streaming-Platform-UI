@@ -1,1 +1,1 @@
-Netflix-UI-Clone
+# Streaming Platform UI
